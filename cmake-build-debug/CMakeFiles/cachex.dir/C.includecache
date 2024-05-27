@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/tmp/tmp.9OKW2HfwBk/cache.c
+stdio.h
+-
+stdlib.h
+-
+cache.h
+/tmp/tmp.9OKW2HfwBk/cache.h
+
+/tmp/tmp.9OKW2HfwBk/cache.h
+
